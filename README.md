@@ -1,5 +1,7 @@
 #### Running Spring XD Shell in a Docker container
 
+[![Travis](https://travis-ci.org/jay-johnson/docker-springxd-shell.svg)](https://travis-ci.org/jay-johnson/docker-springxd-shell.svg)
+
 This repository allows for auto publishing changes to this Dockerfile to Docker Hub through Travis CI.
 
 ##### Currently using [Spring 1.3.0.RELEASE](http://docs.spring.io/spring-xd/docs/1.3.0.RELEASE/reference/html/)
